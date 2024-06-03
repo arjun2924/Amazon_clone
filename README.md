@@ -28,3 +28,6 @@ Contributing : While this project is primarily for personal use, pull requests a
 License : This project is licensed under the MIT License. See the LICENSE.md file for details. However, remember that you cannot use this project commercially or in a way that infringes upon Amazon's rights.
 
 Acknowledgements : Amazon - for design inspiration. Font Awesome - for icons used in the project.
+
+OUTPUT:
+![image](https://github.com/arjun2924/Amazon_clone/assets/124246472/c9971a07-4fc2-4c99-b140-58b37375e0a6)
